@@ -1,6 +1,6 @@
 ## Independent_Project_Week_9
 
-# Nairobi-Hospital-test-for-hypothyroidism
+## Nairobi-Hospital-test-for-hypothyroidism
 test for hypothyroidism
 
 ## {PREDICTION FOR SURVIVAL}
