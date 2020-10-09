@@ -3,7 +3,7 @@
 # Nairobi-Hospital-test-for-hypothyroidism
 test for hypothyroidism
 
-# {PREDICTION FOR SURVIVAL}
+## {PREDICTION FOR SURVIVAL}
 
 #### {The dataset available contains data on individuals who boarded a plane/ship enroute their journey ended up crashing/capsizing.The core objetive of this project is to perhaps create a model that predicts which passengers are likely to survive on deck putting the various variables in to consideration.The project will go on to identify the most important features among the given variables that highly influences a person's chances of survival.}
 #### By **{Pruno Jumah}**
