@@ -6,7 +6,7 @@
 #### By **{Pruno Jumah}**
 
 ## Description
-{ This is a model that predicts a person's chance of survival using various attributes }
+{ This is a model that predicts a person's chance of survival using various attributes. }
 
 ## Setup/Installation Requirements
 * Python Editor
